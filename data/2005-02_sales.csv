@@ -1,0 +1,98 @@
+,ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+22,10375,21,34.91,12,733.11,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,95,S10_1678,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+50,10381,36,100.0,3,8254.8,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,214,S10_1949,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Large
+76,10374,39,100.0,5,5288.01,2/2/2005 0:00,Shipped,1,2,2005,Motorcycles,118,S10_2016,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium
+102,10374,22,100.0,1,3834.38,2/2/2005 0:00,Shipped,1,2,2005,Motorcycles,193,S10_4698,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium
+129,10384,34,100.0,4,4846.7,2/23/2005 0:00,Shipped,1,2,2005,Classic Cars,136,S10_4757,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+157,10381,37,100.0,6,6231.54,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,147,S10_4962,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+183,10375,45,76.0,7,3420.0,2/3/2005 0:00,Shipped,1,2,2005,Classic Cars,194,S12_1099,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+209,10382,34,100.0,10,3823.64,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,207,S12_1108,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+236,10381,20,100.0,1,2952.0,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,136,S12_1666,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Small
+262,10375,49,78.92,13,3867.08,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,150,S12_2823,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+289,10382,37,100.0,11,4071.85,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,151,S12_3148,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+313,10376,35,100.0,1,3987.2,2/8/2005 0:00,Shipped,1,2,2005,Classic Cars,117,S12_3380,Boards & Toys Co.,3105552373,4097 Douglas Av.,,Glendale,CA,92561,USA,,Young,Leslie,Medium
+339,10382,34,95.35,12,3241.9,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,173,S12_3891,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+364,10377,24,67.83,5,1627.92,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,79,S12_3990,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Small
+391,10382,32,66.58,13,2130.56,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,118,S12_4473,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+416,10377,50,100.0,1,5182.0,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,115,S12_4675,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Medium
+444,10381,48,98.0,2,4704.0,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,116,S18_1097,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+471,10377,35,100.0,2,5895.05,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,141,S18_1129,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Medium
+498,10380,27,93.16,13,2515.32,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,102,S18_1342,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+524,10381,25,52.83,9,1320.75,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,53,S18_1367,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Small
+549,10378,34,42.64,5,1449.76,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,124,S18_1589,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+597,10379,39,100.0,2,5399.55,2/10/2005 0:00,Shipped,1,2,2005,Vintage Cars,170,S18_1749,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+622,10377,31,67.76,4,2100.56,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,77,S18_1889,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Small
+649,10377,36,100.0,6,4352.76,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,142,S18_1984,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Medium
+677,10382,25,88.0,5,2200.0,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,163,S18_2238,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+699,10379,27,49.3,1,1331.1,2/10/2005 0:00,Shipped,1,2,2005,Vintage Cars,60,S18_2248,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+725,10383,27,100.0,11,3843.99,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+749,10380,40,100.0,10,4931.6,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,127,S18_2325,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+777,10381,35,48.62,7,1701.7,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,60,S18_2432,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Small
+799,10374,42,69.27,2,2909.34,2/2/2005 0:00,Shipped,1,2,2005,Planes,84,S18_2581,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Small
+826,10374,22,53.3,4,1172.6,2/2/2005 0:00,Shipped,1,2,2005,Motorcycles,60,S18_2625,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Small
+853,10380,21,47.18,8,990.78,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,168,S18_2795,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+878,10379,29,100.0,5,5127.2,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,132,S18_2870,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+905,10381,41,100.0,8,4319.76,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,101,S18_2949,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+932,10381,40,68.08,4,2723.2,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,62,S18_2957,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Small
+985,10381,35,100.0,5,4288.2,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,104,S18_3136,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+1010,10383,24,61.52,9,1476.48,2/22/2005 0:00,Shipped,1,2,2005,Vintage Cars,136,S18_3140,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1058,10377,39,100.0,3,7264.53,2/9/2005 0:00,Shipped,1,2,2005,Classic Cars,169,S18_3232,"Toys of Finland, Co.",90-224 8555,Keskuskatu 45,,Helsinki,,21240,Finland,EMEA,Karttunen,Matti,Large
+1059,10383,47,100.0,6,6869.05,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1087,10383,26,100.0,12,3340.48,2/22/2005 0:00,Shipped,1,2,2005,Trains,100,S18_3259,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1112,10378,22,100.0,4,2464.0,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,80,S18_3278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1137,10382,50,100.0,7,8935.5,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,99,S18_3320,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Large
+1163,10378,43,96.49,10,4149.07,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,146,S18_3482,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1187,10379,32,70.83,4,2266.56,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,141,S18_3685,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1212,10378,28,100.0,9,4609.64,2/10/2005 0:00,Shipped,1,2,2005,Motorcycles,62,S18_3782,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1264,10383,38,100.0,1,5340.9,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1286,10380,32,100.0,1,3376.64,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,92,S18_4409,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1312,10383,28,58.58,7,1640.24,2/22/2005 0:00,Shipped,1,2,2005,Vintage Cars,87,S18_4522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1339,10382,39,100.0,1,4890.6,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,121,S18_4600,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1366,10382,39,100.0,2,7827.3,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,50,S18_4668,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Large
+1391,10378,49,67.14,8,3289.86,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,148,S18_4721,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1412,10380,24,100.0,2,4536.0,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,71,S18_4933,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1435,10380,34,100.0,3,3441.82,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,73,S24_1046,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1462,10383,22,91.76,2,2018.72,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1488,10374,38,100.0,6,4197.1,2/2/2005 0:00,Shipped,1,2,2005,Motorcycles,112,S24_1578,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium
+1513,10379,32,100.0,3,3970.56,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,50,S24_1628,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1534,10374,46,94.1,3,4328.6,2/2/2005 0:00,Shipped,1,2,2005,Planes,109,S24_1785,"Australian Gift Network, Co",61-7-3844-6555,31 Duncan St. West End,,South Brisbane,Queensland,4101,Australia,APAC,Calaghan,Tony,Medium
+1560,10380,32,70.56,4,2257.92,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,33,S24_1937,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1586,10375,23,100.0,9,2443.29,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,76,S24_2000,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+1613,10384,28,80.54,3,2255.12,2/23/2005 0:00,Shipped,1,2,2005,Ships,122,S24_2011,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Small
+1638,10380,27,68.35,5,1845.45,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,44,S24_2022,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1665,10382,20,100.0,3,2654.4,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,127,S24_2300,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1690,10375,20,100.0,14,2046.0,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,69,S24_2360,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+1713,10380,36,37.5,6,1350.0,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,90,S24_2766,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1740,10383,40,100.0,3,6089.6,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1789,10380,44,36.29,7,1596.76,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,117,S24_2887,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1815,10378,41,100.0,7,5856.85,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,37,S24_2972,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1842,10384,43,97.87,2,4208.41,2/23/2005 0:00,Shipped,1,2,2005,Vintage Cars,88,S24_3151,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+1865,10380,44,79.06,9,3478.64,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,85,S24_3191,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1891,10378,46,41.54,6,1910.84,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,61,S24_3371,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1941,10380,34,100.0,11,3953.18,2/16/2005 0:00,Shipped,1,2,2005,Classic Cars,107,S24_3432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1966,10385,37,85.54,2,3164.98,2/28/2005 0:00,Shipped,1,2,2005,Vintage Cars,83,S24_3816,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1993,10378,33,53.27,3,1757.91,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,140,S24_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2043,10380,43,95.03,12,4086.29,2/16/2005 0:00,Shipped,1,2,2005,Vintage Cars,41,S24_3969,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2069,10383,21,93.91,4,1972.11,2/22/2005 0:00,Shipped,1,2,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2096,10382,33,100.0,4,4592.61,2/17/2005 0:00,Shipped,1,2,2005,Vintage Cars,97,S24_4258,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2117,10375,43,100.0,2,10039.6,2/3/2005 0:00,Shipped,1,2,2005,Planes,72,S24_4278,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Large
+2144,10378,41,100.0,2,4894.17,2/10/2005 0:00,Shipped,1,2,2005,Classic Cars,80,S24_4620,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2170,10382,26,100.0,6,2708.42,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2193,10375,37,100.0,3,6353.27,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,99,S32_1374,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2219,10378,40,82.46,1,3298.4,2/10/2005 0:00,Shipped,1,2,2005,Motorcycles,40,S32_2206,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2246,10383,32,53.18,5,1701.76,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2273,10383,44,36.07,8,1587.08,2/22/2005 0:00,Shipped,1,2,2005,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2300,10382,48,100.0,8,6799.68,2/17/2005 0:00,Shipped,1,2,2005,Trucks and Buses,64,S32_3522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2322,10375,44,82.26,4,3619.44,2/3/2005 0:00,Shipped,1,2,2005,Vintage Cars,68,S32_4289,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2349,10375,41,100.0,15,4701.88,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,102,S32_4485,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2373,10375,49,65.8,5,3224.2,2/3/2005 0:00,Shipped,1,2,2005,Vintage Cars,43,S50_1341,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2402,10383,29,100.0,13,3087.05,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2429,10383,38,60.06,10,2282.28,2/22/2005 0:00,Shipped,1,2,2005,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2454,10375,49,100.0,8,5406.66,2/3/2005 0:00,Shipped,1,2,2005,Motorcycles,81,S50_4713,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2480,10385,25,77.34,1,1933.5,2/28/2005 0:00,Shipped,1,2,2005,Ships,66,S700_1138,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2504,10375,37,81.87,6,3029.19,2/3/2005 0:00,Shipped,1,2,2005,Planes,91,S700_1691,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2531,10384,49,100.0,1,6397.44,2/23/2005 0:00,Shipped,1,2,2005,Ships,86,S700_1938,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,,Brown,Julie,Medium
+2583,10375,33,100.0,1,3856.71,2/3/2005 0:00,Shipped,1,2,2005,Planes,99,S700_2466,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2638,10382,34,54.84,9,1864.56,2/17/2005 0:00,Shipped,1,2,2005,Classic Cars,101,S700_2824,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2661,10375,25,66.73,10,1668.25,2/3/2005 0:00,Shipped,1,2,2005,Planes,118,S700_2834,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+2686,10375,44,100.0,11,5208.72,2/3/2005 0:00,Shipped,1,2,2005,Planes,80,S700_3167,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
