@@ -1,0 +1,107 @@
+,ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+23,10388,42,76.36,4,3207.12,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,95,S10_1678,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Medium
+51,10391,24,100.0,4,2416.56,3/9/2005 0:00,Shipped,1,3,2005,Classic Cars,214,S10_1949,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+77,10388,50,44.51,5,2225.5,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,118,S10_2016,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Small
+103,10388,21,86.77,7,1822.17,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,193,S10_4698,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Small
+130,10395,32,100.0,2,3370.56,3/17/2005 0:00,Shipped,1,3,2005,Classic Cars,136,S10_4757,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+158,10391,37,46.9,7,1735.3,3/9/2005 0:00,Shipped,1,3,2005,Classic Cars,147,S10_4962,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+184,10389,26,99.04,4,2575.04,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,194,S12_1099,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+210,10395,33,69.12,1,2280.96,3/17/2005 0:00,Shipped,1,3,2005,Classic Cars,207,S12_1108,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Small
+237,10391,39,63.2,9,2464.8,3/9/2005 0:00,Shipped,1,3,2005,Trucks and Buses,136,S12_1666,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+263,10388,44,100.0,6,5951.44,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,150,S12_2823,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Medium
+314,10389,25,72.38,6,1809.5,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,117,S12_3380,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+340,10396,33,100.0,3,6109.29,3/23/2005 0:00,Shipped,1,3,2005,Classic Cars,173,S12_3891,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+365,10389,36,70.26,7,2529.36,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,79,S12_3990,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Small
+417,10389,47,100.0,8,5243.79,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,115,S12_4675,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+445,10391,29,85.1,10,2467.9,3/9/2005 0:00,Shipped,1,3,2005,Trucks and Buses,116,S18_1097,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+472,10390,36,93.77,14,3375.72,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,141,S18_1129,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+499,10391,35,100.0,2,5548.9,3/9/2005 0:00,Shipped,1,3,2005,Vintage Cars,102,S18_1342,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+525,10391,42,100.0,3,4998.0,3/9/2005 0:00,Shipped,1,3,2005,Vintage Cars,53,S18_1367,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+574,10386,25,54.57,7,1364.25,3/1/2005 0:00,Resolved,1,3,2005,Planes,157,S18_1662,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+575,10398,33,100.0,11,4215.09,3/30/2005 0:00,Shipped,1,3,2005,Planes,157,S18_1662,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+623,10389,49,79.22,3,3881.78,3/3/2005 0:00,Shipped,1,3,2005,Classic Cars,77,S18_1889,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+650,10390,34,43.05,15,1463.7,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,142,S18_1984,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+750,10390,31,98.99,16,3068.69,3/4/2005 0:00,Shipped,1,3,2005,Vintage Cars,127,S18_2325,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+778,10391,44,38.5,5,1694.0,3/9/2005 0:00,Shipped,1,3,2005,Trucks and Buses,60,S18_2432,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+800,10386,21,74.77,18,1570.17,3/1/2005 0:00,Resolved,1,3,2005,Planes,84,S18_2581,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+801,10398,34,76.88,15,2613.92,3/30/2005 0:00,Shipped,1,3,2005,Planes,84,S18_2581,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+827,10389,39,100.0,5,6981.0,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,60,S18_2625,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+854,10390,26,78.11,7,2030.86,3/4/2005 0:00,Shipped,1,3,2005,Vintage Cars,168,S18_2795,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+906,10391,32,45.25,6,1448.0,3/9/2005 0:00,Shipped,1,3,2005,Vintage Cars,101,S18_2949,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+933,10392,37,59.96,3,2218.52,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,62,S18_2957,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+957,10386,37,93.01,5,3441.37,3/1/2005 0:00,Resolved,1,3,2005,Ships,86,S18_3029,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+958,10398,28,72.26,18,2023.28,3/30/2005 0:00,Shipped,1,3,2005,Ships,86,S18_3029,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+986,10392,29,86.92,2,2520.68,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,104,S18_3136,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Small
+1011,10396,33,100.0,2,5273.73,3/23/2005 0:00,Shipped,1,3,2005,Vintage Cars,136,S18_3140,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1060,10394,22,100.0,5,3353.02,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1088,10396,24,89.75,4,2154.0,3/23/2005 0:00,Shipped,1,3,2005,Trains,100,S18_3259,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1113,10390,40,100.0,9,5491.6,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,80,S18_3278,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1138,10392,36,100.0,1,4035.96,3/10/2005 0:00,Shipped,1,3,2005,Vintage Cars,99,S18_3320,Mini Auto Werke,7675-3555,Kirchgasse 6,,Graz,,8010,Austria,EMEA,Mendel,Roland,Medium
+1164,10390,50,100.0,1,7397.0,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,146,S18_3482,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Large
+1213,10390,36,100.0,2,5079.96,3/4/2005 0:00,Shipped,1,3,2005,Motorcycles,62,S18_3782,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1237,10386,22,57.55,6,1266.1,3/1/2005 0:00,Resolved,1,3,2005,Vintage Cars,105,S18_3856,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1238,10398,45,100.0,17,4811.85,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,105,S18_3856,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+1265,10394,37,100.0,1,6376.58,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,143,S18_4027,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1313,10396,45,100.0,5,4739.4,3/23/2005 0:00,Shipped,1,3,2005,Vintage Cars,87,S18_4522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1392,10390,49,100.0,3,6862.94,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,148,S18_4721,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1463,10394,31,50.29,2,1558.99,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1489,10389,45,100.0,1,4597.65,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,112,S24_1578,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+1535,10386,33,41.71,11,1376.43,3/1/2005 0:00,Resolved,1,3,2005,Planes,109,S24_1785,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1536,10398,43,100.0,16,5552.16,3/30/2005 0:00,Shipped,1,3,2005,Planes,109,S24_1785,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+1561,10391,33,100.0,8,8344.71,3/9/2005 0:00,Shipped,1,3,2005,Vintage Cars,33,S24_1937,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Large
+1587,10389,49,81.4,2,3988.6,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,76,S24_2000,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
+1614,10396,49,100.0,6,5720.75,3/23/2005 0:00,Shipped,1,3,2005,Ships,122,S24_2011,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1639,10391,24,100.0,1,4042.08,3/9/2005 0:00,Shipped,1,3,2005,Vintage Cars,44,S24_2022,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+1691,10390,35,65.13,4,2279.55,3/4/2005 0:00,Shipped,1,3,2005,Motorcycles,69,S24_2360,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1741,10394,46,38.9,6,1789.4,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1766,10386,39,55.96,1,2182.44,3/1/2005 0:00,Resolved,1,3,2005,Planes,68,S24_2841,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1767,10398,28,57.55,3,1611.4,3/30/2005 0:00,Shipped,1,3,2005,Planes,68,S24_2841,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+1816,10390,37,100.0,5,4894.73,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,37,S24_2972,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1843,10396,27,83.2,7,2246.4,3/23/2005 0:00,Shipped,1,3,2005,Vintage Cars,88,S24_3151,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1892,10390,46,52.84,6,2430.64,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,61,S24_3371,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1917,10386,35,63.76,9,2231.6,3/1/2005 0:00,Resolved,1,3,2005,Vintage Cars,65,S24_3420,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1918,10398,34,71.67,13,2436.78,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,65,S24_3420,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+1967,10396,37,90.57,8,3351.09,3/23/2005 0:00,Shipped,1,3,2005,Vintage Cars,83,S24_3816,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1994,10390,45,100.0,8,6763.05,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,140,S24_3856,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2020,10386,41,73.32,12,3006.12,3/1/2005 0:00,Resolved,1,3,2005,Planes,68,S24_3949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2021,10398,41,68.24,2,2797.84,3/30/2005 0:00,Shipped,1,3,2005,Planes,68,S24_3949,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2070,10394,37,100.0,7,5207.75,3/15/2005 0:00,Shipped,1,3,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2118,10386,50,63.34,8,3167.0,3/1/2005 0:00,Resolved,1,3,2005,Planes,72,S24_4278,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2119,10398,45,78.25,14,3521.25,3/30/2005 0:00,Shipped,1,3,2005,Planes,72,S24_4278,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+2145,10390,30,82.42,10,2472.6,3/4/2005 0:00,Shipped,1,3,2005,Classic Cars,80,S24_4620,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2194,10387,44,94.9,1,4175.6,3/2/2005 0:00,Shipped,1,3,2005,Motorcycles,99,S32_1374,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Medium
+2220,10390,41,44.56,11,1826.96,3/4/2005 0:00,Shipped,1,3,2005,Motorcycles,40,S32_2206,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2247,10394,36,62.77,3,2259.72,3/15/2005 0:00,Shipped,1,3,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2274,10394,30,60.28,4,1808.4,3/15/2005 0:00,Shipped,1,3,2005,Trains,62,S32_3207,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2323,10388,35,100.0,8,3918.95,3/3/2005 0:00,Shipped,1,3,2005,Vintage Cars,68,S32_4289,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Medium
+2324,10398,22,67.41,4,1483.02,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,68,S32_4289,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2350,10390,45,48.98,12,2204.1,3/4/2005 0:00,Shipped,1,3,2005,Motorcycles,102,S32_4485,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2374,10388,27,100.0,1,3211.38,3/3/2005 0:00,Shipped,1,3,2005,Vintage Cars,43,S50_1341,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Medium
+2375,10398,49,36.66,5,1796.34,3/30/2005 0:00,Shipped,1,3,2005,Vintage Cars,43,S50_1341,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2403,10395,46,100.0,4,5692.96,3/17/2005 0:00,Shipped,1,3,2005,Trucks and Buses,115,S50_1392,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+2430,10395,45,100.0,3,8977.05,3/17/2005 0:00,Shipped,1,3,2005,Trains,58,S50_1514,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Large
+2455,10390,22,100.0,13,3491.18,3/4/2005 0:00,Shipped,1,3,2005,Motorcycles,81,S50_4713,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2481,10396,39,66.67,1,2600.13,3/23/2005 0:00,Shipped,1,3,2005,Ships,66,S700_1138,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2505,10388,46,100.0,2,10066.6,3/3/2005 0:00,Shipped,1,3,2005,Planes,91,S700_1691,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Large
+2506,10398,47,87.69,6,4121.43,3/30/2005 0:00,Shipped,1,3,2005,Planes,91,S700_1691,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+2532,10397,32,80.55,5,2577.6,3/28/2005 0:00,Shipped,1,3,2005,Ships,86,S700_1938,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+2557,10386,29,85.76,13,2487.04,3/1/2005 0:00,Resolved,1,3,2005,Ships,90,S700_2047,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2558,10398,36,100.0,7,3910.32,3/30/2005 0:00,Shipped,1,3,2005,Ships,90,S700_2047,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+2584,10386,37,83.84,14,3102.08,3/1/2005 0:00,Resolved,1,3,2005,Planes,99,S700_2466,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2585,10398,22,86.76,8,1908.72,3/30/2005 0:00,Shipped,1,3,2005,Planes,99,S700_2466,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2611,10386,37,100.0,10,5017.57,3/1/2005 0:00,Resolved,1,3,2005,Ships,72,S700_2610,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2612,10397,22,66.5,4,1463.0,3/28/2005 0:00,Shipped,1,3,2005,Ships,72,S700_2610,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
+2662,10388,50,100.0,3,7154.5,3/3/2005 0:00,Shipped,1,3,2005,Planes,118,S700_2834,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,,Benitez,Violeta,Large
+2663,10398,23,100.0,9,2810.83,3/30/2005 0:00,Shipped,1,3,2005,Planes,118,S700_2834,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2687,10386,32,94.34,17,3018.88,3/1/2005 0:00,Resolved,1,3,2005,Planes,80,S700_3167,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2688,10398,29,65.6,10,1902.4,3/30/2005 0:00,Shipped,1,3,2005,Planes,80,S700_3167,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2714,10386,45,92.08,2,4143.6,3/1/2005 0:00,Resolved,1,3,2005,Ships,100,S700_3505,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2715,10397,48,100.0,3,5192.64,3/28/2005 0:00,Shipped,1,3,2005,Ships,100,S700_3505,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+2740,10386,30,95.48,3,2864.4,3/1/2005 0:00,Resolved,1,3,2005,Ships,99,S700_3962,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2741,10397,36,100.0,2,3789.72,3/28/2005 0:00,Shipped,1,3,2005,Ships,99,S700_3962,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Medium
+2766,10386,44,86.4,15,3801.6,3/1/2005 0:00,Resolved,1,3,2005,Planes,74,S700_4002,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2767,10398,36,87.36,12,3144.96,3/30/2005 0:00,Shipped,1,3,2005,Planes,74,S700_4002,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
+2793,10386,50,87.15,16,4357.5,3/1/2005 0:00,Resolved,1,3,2005,Planes,49,S72_1253,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2794,10398,34,40.22,1,1367.48,3/30/2005 0:00,Shipped,1,3,2005,Planes,49,S72_1253,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
+2820,10386,43,100.0,4,5417.57,3/1/2005 0:00,Resolved,1,3,2005,Ships,54,S72_3212,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2821,10397,34,62.24,1,2116.16,3/28/2005 0:00,Shipped,1,3,2005,Ships,54,S72_3212,Alpha Cognac,61.77.6555,1 rue Alsace-Lorraine,,Toulouse,,31000,France,EMEA,Roulet,Annette,Small
