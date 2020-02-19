@@ -1,0 +1,121 @@
+,ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+25,10417,66,100.0,2,7516.08,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,95,S10_1678,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+52,10411,23,100.0,9,4140.23,5/1/2005 0:00,Shipped,2,5,2005,Classic Cars,214,S10_1949,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+53,10424,50,100.0,6,12001.0,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,214,S10_1949,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+79,10417,45,100.0,5,5887.35,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,118,S10_2016,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+105,10417,56,100.0,4,9218.16,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,193,S10_4698,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+132,10414,19,100.0,3,2764.88,5/6/2005 0:00,On Hold,2,5,2005,Classic Cars,136,S10_4757,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Small
+159,10411,27,100.0,2,4427.73,5/1/2005 0:00,Shipped,2,5,2005,Classic Cars,147,S10_4962,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+160,10425,38,100.0,12,5894.94,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,147,S10_4962,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+185,10419,12,100.0,13,1961.28,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,194,S12_1099,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+211,10413,36,100.0,2,8677.8,5/5/2005 0:00,Shipped,2,5,2005,Classic Cars,207,S12_1108,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Large
+238,10411,40,100.0,6,6232.0,5/1/2005 0:00,Shipped,2,5,2005,Trucks and Buses,136,S12_1666,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+239,10424,49,100.0,3,7969.36,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,136,S12_1666,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+265,10417,21,100.0,1,3447.78,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,150,S12_2823,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+290,10413,47,100.0,3,8236.75,5/5/2005 0:00,Shipped,2,5,2005,Classic Cars,151,S12_3148,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Large
+315,10419,10,100.0,11,1092.2,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,117,S12_3380,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+341,10413,22,100.0,1,3387.78,5/5/2005 0:00,Shipped,2,5,2005,Classic Cars,173,S12_3891,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Medium
+366,10419,34,90.17,14,3065.78,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,79,S12_3990,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+392,10412,54,100.0,5,5951.34,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,118,S12_4473,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+393,10425,33,100.0,4,4692.6,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,118,S12_4473,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+419,10419,32,100.0,10,3832.64,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,115,S12_4675,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+446,10411,27,100.0,8,3213.0,5/1/2005 0:00,Shipped,2,5,2005,Trucks and Buses,116,S18_1097,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+447,10424,54,100.0,5,7182.0,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,116,S18_1097,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+474,10419,38,100.0,5,4464.24,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,141,S18_1129,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+500,10422,51,95.55,2,4873.05,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,102,S18_1342,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,,Yu,Kyung,Medium
+526,10422,25,51.75,1,1293.75,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,53,S18_1367,Diecast Classics Inc.,2155551555,7586 Pompton St.,,Allentown,PA,70267,USA,,Yu,Kyung,Small
+551,10419,37,100.0,1,5202.94,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,124,S18_1589,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+577,10416,24,100.0,14,4352.16,5/10/2005 0:00,Shipped,2,5,2005,Planes,157,S18_1662,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+599,10420,37,100.0,5,5283.6,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,170,S18_1749,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+625,10419,39,83.93,9,3273.27,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,77,S18_1889,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+652,10419,34,100.0,4,4594.76,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,142,S18_1984,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+678,10412,41,100.0,4,6712.93,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,163,S18_2238,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+679,10425,28,100.0,3,5318.04,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,163,S18_2238,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+701,10420,36,63.57,4,2288.52,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,60,S18_2248,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+726,10412,56,98.18,8,5498.08,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+727,10425,38,99.41,7,3777.58,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,122,S18_2319,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+752,10420,45,100.0,2,4977.0,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,127,S18_2325,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+779,10412,47,61.99,11,2913.53,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,60,S18_2432,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+780,10425,19,49.22,10,935.18,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,60,S18_2432,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+803,10416,15,98.84,4,1482.6,5/10/2005 0:00,Shipped,2,5,2005,Planes,84,S18_2581,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+829,10417,36,61.18,6,2202.48,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,60,S18_2625,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+855,10421,35,100.0,1,5433.75,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,168,S18_2795,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+880,10419,55,100.0,2,7695.6,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,132,S18_2870,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+907,10423,10,88.14,1,881.4,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,101,S18_2949,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+934,10423,31,53.72,3,1665.32,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,62,S18_2957,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+960,10414,44,73.98,1,3255.12,5/6/2005 0:00,On Hold,2,5,2005,Ships,86,S18_3029,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+987,10423,21,84.82,2,1781.22,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,104,S18_3136,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+1012,10414,41,100.0,12,4872.03,5/6/2005 0:00,On Hold,2,5,2005,Vintage Cars,136,S18_3140,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+1062,10412,60,100.0,9,11887.8,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,169,S18_3232,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+1063,10419,35,100.0,6,5926.9,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,169,S18_3232,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+1064,10425,28,100.0,8,3793.16,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,169,S18_3232,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+1089,10414,48,100.0,14,5808.48,5/6/2005 0:00,On Hold,2,5,2005,Trains,100,S18_3259,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+1139,10423,21,89.29,5,1875.09,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,99,S18_3320,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+1189,10419,43,100.0,3,5589.14,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,141,S18_3685,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Medium
+1240,10415,51,100.0,5,6209.25,5/9/2005 0:00,Disputed,2,5,2005,Vintage Cars,105,S18_3856,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Medium
+1266,10413,49,100.0,5,6896.75,5/5/2005 0:00,Shipped,2,5,2005,Classic Cars,143,S18_4027,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Medium
+1288,10420,66,92.95,6,6134.7,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,92,S18_4409,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+1314,10414,16,75.48,11,1207.68,5/6/2005 0:00,On Hold,2,5,2005,Vintage Cars,87,S18_4522,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Small
+1340,10411,46,100.0,3,5235.72,5/1/2005 0:00,Shipped,2,5,2005,Trucks and Buses,121,S18_4600,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+1341,10425,38,100.0,13,4325.16,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,121,S18_4600,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+1367,10411,35,59.87,7,2095.45,5/1/2005 0:00,Shipped,2,5,2005,Vintage Cars,50,S18_4668,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Small
+1368,10424,26,59.87,4,1556.62,5/31/2005 0:00,In Process,2,5,2005,Vintage Cars,50,S18_4668,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1414,10420,36,57.73,7,2078.28,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,71,S18_4933,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+1437,10420,60,64.67,11,3880.2,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,73,S24_1046,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+1464,10412,21,52.6,2,1104.6,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,57,S24_1444,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1465,10425,55,46.82,1,2575.1,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,57,S24_1444,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+1491,10417,35,100.0,3,3550.05,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,112,S24_1578,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+1515,10420,37,60.37,13,2233.69,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,50,S24_1628,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+1538,10416,47,88.63,6,4165.61,5/10/2005 0:00,Shipped,2,5,2005,Planes,109,S24_1785,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+1563,10420,45,26.88,1,1209.6,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,33,S24_1937,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+1589,10416,32,87.6,1,2803.2,5/10/2005 0:00,Shipped,2,5,2005,Motorcycles,76,S24_2000,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+1615,10414,23,100.0,10,3335.23,5/6/2005 0:00,On Hold,2,5,2005,Ships,122,S24_2011,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+1640,10421,40,45.7,2,1828.0,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,44,S24_2022,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1666,10412,70,100.0,10,8498.0,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,127,S24_2300,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Large
+1667,10425,49,100.0,9,5510.54,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,127,S24_2300,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+1715,10420,39,100.0,9,3933.93,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,90,S24_2766,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+1742,10412,30,36.07,6,1082.1,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,35,S24_2840,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+1743,10425,31,33.24,5,1030.44,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,35,S24_2840,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+1769,10415,21,67.82,1,1424.22,5/9/2005 0:00,Disputed,2,5,2005,Planes,68,S24_2841,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+1791,10420,55,96.3,8,5296.5,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,117,S24_2887,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+1818,10419,15,42.67,7,640.05,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,37,S24_2972,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+1844,10414,60,100.0,5,6107.4,5/6/2005 0:00,On Hold,2,5,2005,Vintage Cars,88,S24_3151,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+1867,10420,35,96.74,10,3385.9,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,85,S24_3191,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+1893,10419,55,52.66,12,2896.3,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,61,S24_3371,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Small
+1920,10415,18,69.7,2,1254.6,5/9/2005 0:00,Disputed,2,5,2005,Vintage Cars,65,S24_3420,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+1943,10420,26,100.0,12,2617.16,5/29/2005 0:00,In Process,2,5,2005,Classic Cars,107,S24_3432,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+1969,10414,51,76.31,2,3891.81,5/6/2005 0:00,On Hold,2,5,2005,Vintage Cars,83,S24_3816,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+1996,10419,70,100.0,8,9240.0,5/17/2005 0:00,Shipped,2,5,2005,Classic Cars,140,S24_3856,Salzburg Collectables,6562-9555,Geislweg 14,,Salzburg,,5020,Austria,EMEA,Pipps,Georg,Large
+2023,10416,18,75.06,13,1351.08,5/10/2005 0:00,Shipped,2,5,2005,Planes,68,S24_3949,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2045,10420,15,43.49,3,652.35,5/29/2005 0:00,In Process,2,5,2005,Vintage Cars,41,S24_3969,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+2071,10412,31,100.0,1,4253.2,5/3/2005 0:00,Shipped,2,5,2005,Classic Cars,118,S24_4048,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2097,10423,28,78.89,4,2208.92,5/30/2005 0:00,In Process,2,5,2005,Vintage Cars,97,S24_4258,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+2121,10416,48,74.62,5,3581.76,5/10/2005 0:00,Shipped,2,5,2005,Planes,72,S24_4278,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+2171,10411,26,100.0,1,2904.72,5/1/2005 0:00,Shipped,2,5,2005,Trucks and Buses,96,S32_1268,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Small
+2172,10425,41,86.68,11,3553.88,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,96,S32_1268,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+2196,10416,45,100.0,2,4764.6,5/10/2005 0:00,Shipped,2,5,2005,Motorcycles,99,S32_1374,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+2248,10412,19,48.7,7,925.3,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2249,10425,11,43.83,6,482.13,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,54,S32_2509,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+2275,10413,24,49.71,6,1193.04,5/5/2005 0:00,Shipped,2,5,2005,Trains,62,S32_3207,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Small
+2301,10411,27,69.16,5,1867.32,5/1/2005 0:00,Shipped,2,5,2005,Trucks and Buses,64,S32_3522,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Small
+2302,10424,44,61.41,2,2702.04,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,64,S32_3522,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+2326,10416,26,61.22,7,1591.72,5/10/2005 0:00,Shipped,2,5,2005,Vintage Cars,68,S32_4289,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2377,10416,37,51.93,8,1921.41,5/10/2005 0:00,Shipped,2,5,2005,Vintage Cars,43,S50_1341,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2404,10412,26,100.0,3,3460.86,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2405,10425,18,100.0,2,1895.94,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,115,S50_1392,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+2431,10413,51,63.85,4,3256.35,5/5/2005 0:00,Shipped,2,5,2005,Trains,58,S50_1514,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,,King,Julie,Medium
+2482,10414,37,71.34,6,2639.58,5/6/2005 0:00,On Hold,2,5,2005,Ships,66,S700_1138,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Small
+2508,10416,23,91.34,9,2100.82,5/10/2005 0:00,Shipped,2,5,2005,Planes,91,S700_1691,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2533,10414,34,100.0,13,3533.62,5/6/2005 0:00,On Hold,2,5,2005,Ships,86,S700_1938,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+2560,10415,32,95.95,4,3070.4,5/9/2005 0:00,Disputed,2,5,2005,Ships,90,S700_2047,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Medium
+2587,10416,22,100.0,11,2457.18,5/10/2005 0:00,Shipped,2,5,2005,Planes,99,S700_2466,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2613,10414,31,75.89,4,2352.59,5/6/2005 0:00,On Hold,2,5,2005,Ships,72,S700_2610,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Small
+2639,10411,34,100.0,4,3576.8,5/1/2005 0:00,Shipped,2,5,2005,Classic Cars,101,S700_2824,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,,Fresnisre,Jean,Medium
+2640,10424,46,80.92,1,3722.32,5/31/2005 0:00,In Process,2,5,2005,Classic Cars,101,S700_2824,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+2665,10416,41,100.0,3,5642.83,5/10/2005 0:00,Shipped,2,5,2005,Planes,118,S700_2834,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+2690,10416,39,67.2,10,2620.8,5/10/2005 0:00,Shipped,2,5,2005,Planes,80,S700_3167,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2716,10414,28,100.0,7,3029.04,5/6/2005 0:00,On Hold,2,5,2005,Ships,100,S700_3505,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium
+2742,10414,27,90.37,8,2439.99,5/6/2005 0:00,On Hold,2,5,2005,Ships,99,S700_3962,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Small
+2769,10416,43,62.19,12,2674.17,5/10/2005 0:00,Shipped,2,5,2005,Planes,74,S700_4002,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+2796,10415,42,57.61,3,2419.62,5/9/2005 0:00,Disputed,2,5,2005,Planes,49,S72_1253,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+2822,10414,47,65.52,9,3079.44,5/6/2005 0:00,On Hold,2,5,2005,Ships,54,S72_3212,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,,Yoshido,Juri,Medium

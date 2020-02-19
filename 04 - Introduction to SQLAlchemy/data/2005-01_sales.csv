@@ -1,0 +1,100 @@
+,ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+49,10369,41,100.0,2,4514.92,1/20/2005 0:00,Shipped,1,1,2005,Classic Cars,214,S10_1949,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Medium
+101,10362,22,100.0,4,3664.1,1/5/2005 0:00,Shipped,1,1,2005,Motorcycles,193,S10_4698,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,,Hirano,Juri,Medium
+128,10373,39,100.0,3,4046.25,1/31/2005 0:00,Shipped,1,1,2005,Classic Cars,136,S10_4757,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+156,10370,35,65.63,4,2297.05,1/20/2005 0:00,Shipped,1,1,2005,Classic Cars,147,S10_4962,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+182,10363,33,85.39,3,2817.87,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,194,S12_1099,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+208,10371,32,100.0,6,3560.64,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,207,S12_1108,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+235,10370,49,100.0,8,8470.14,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,136,S12_1666,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Large
+261,10362,22,100.0,1,3877.06,1/5/2005 0:00,Shipped,1,1,2005,Motorcycles,150,S12_2823,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,,Hirano,Juri,Medium
+288,10372,40,100.0,4,5862.0,1/26/2005 0:00,Shipped,1,1,2005,Classic Cars,151,S12_3148,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+312,10363,34,96.73,4,3288.82,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,117,S12_3380,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+338,10372,34,100.0,1,5941.5,1/26/2005 0:00,Shipped,1,1,2005,Classic Cars,173,S12_3891,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+363,10363,34,81.62,5,2775.08,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,79,S12_3990,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+390,10371,49,35.71,4,1749.79,1/23/2005 0:00,Shipped,1,1,2005,Trucks and Buses,118,S12_4473,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+415,10363,46,88.45,6,4068.7,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,115,S12_4675,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+443,10370,27,100.0,1,3911.49,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,116,S18_1097,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+470,10365,30,87.06,1,2611.8,1/7/2005 0:00,Shipped,1,1,2005,Classic Cars,141,S18_1129,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,,Tam,Wing C,Small
+497,10369,44,100.0,8,9240.44,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,102,S18_1342,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Large
+523,10369,32,98.63,7,3156.16,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,53,S18_1367,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Medium
+548,10367,49,56.3,1,2758.7,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,124,S18_1589,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+573,10373,28,57.55,4,1611.4,1/31/2005 0:00,Shipped,1,1,2005,Planes,157,S18_1662,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+596,10367,37,100.0,3,4703.81,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,170,S18_1749,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+621,10363,22,100.0,7,3686.54,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,77,S18_1889,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+648,10366,34,100.0,3,4207.84,1/10/2005 0:00,Shipped,1,1,2005,Classic Cars,142,S18_1984,Royale Belge,(071) 23 67 2555,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Medium
+676,10371,25,100.0,7,2602.25,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,163,S18_2238,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+698,10367,45,100.0,4,8884.8,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,60,S18_2248,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Large
+724,10370,22,100.0,5,3949.0,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,122,S18_2319,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+748,10367,27,100.0,5,4196.07,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,127,S18_2325,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+776,10370,22,96.86,7,2130.92,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,60,S18_2432,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+825,10362,23,49.67,3,1142.41,1/5/2005 0:00,Shipped,1,1,2005,Motorcycles,60,S18_2625,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,,Hirano,Juri,Small
+852,10367,32,94.79,7,3033.28,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,168,S18_2795,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+877,10366,49,100.0,2,6144.6,1/10/2005 0:00,Shipped,1,1,2005,Classic Cars,132,S18_2870,Royale Belge,(071) 23 67 2555,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Medium
+904,10369,42,100.0,1,4581.36,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,101,S18_2949,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Medium
+931,10369,28,44.21,6,1237.88,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,62,S18_2957,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Small
+956,10373,22,86.74,5,1908.28,1/31/2005 0:00,Shipped,1,1,2005,Ships,86,S18_3029,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+984,10369,21,94.22,5,1978.62,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,104,S18_3136,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Small
+1009,10372,28,100.0,3,3862.88,1/26/2005 0:00,Shipped,1,1,2005,Vintage Cars,136,S18_3140,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+1056,10366,34,100.0,1,6275.72,1/10/2005 0:00,Shipped,1,1,2005,Classic Cars,169,S18_3232,Royale Belge,(071) 23 67 2555,"Boulevard Tirou, 255",,Charleroi,,B-6000,Belgium,EMEA,Cartrain,Pascale,Medium
+1057,10370,27,56.85,9,1534.95,1/20/2005 0:00,Shipped,1,1,2005,Classic Cars,169,S18_3232,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+1086,10372,25,84.71,5,2117.75,1/26/2005 0:00,Shipped,1,1,2005,Trains,100,S18_3259,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+1111,10363,46,60.3,10,2773.8,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,80,S18_3278,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+1136,10369,45,73.08,4,3288.6,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,99,S18_3320,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Medium
+1162,10363,24,100.0,11,4142.64,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,146,S18_3482,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+1186,10367,46,100.0,6,4808.38,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,141,S18_3685,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+1211,10363,32,89.12,12,2851.84,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,62,S18_3782,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+1236,10373,50,60.49,6,3024.5,1/31/2005 0:00,Shipped,1,1,2005,Vintage Cars,105,S18_3856,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+1263,10372,48,100.0,6,7031.52,1/26/2005 0:00,Shipped,1,1,2005,Classic Cars,143,S18_4027,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Large
+1285,10367,43,62.72,8,2696.96,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,92,S18_4409,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+1311,10372,41,86.89,7,3562.49,1/26/2005 0:00,Shipped,1,1,2005,Vintage Cars,87,S18_4522,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+1338,10370,29,57.53,6,1668.37,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,121,S18_4600,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+1365,10370,20,100.0,2,2730.0,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,50,S18_4668,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+1390,10363,28,58.18,13,1629.04,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,148,S18_4721,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+1411,10367,44,85.25,9,3751.0,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,71,S18_4933,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+1434,10367,21,60.37,10,1267.77,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,73,S24_1046,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+1461,10371,25,97.27,12,2431.75,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,57,S24_1444,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1487,10362,50,96.92,2,4846.0,1/5/2005 0:00,Shipped,1,1,2005,Motorcycles,112,S24_1578,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,,Hirano,Juri,Medium
+1512,10367,38,38.5,11,1463.0,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,50,S24_1628,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+1559,10367,23,36.29,13,834.67,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,33,S24_1937,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+1585,10363,21,100.0,8,3595.62,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,76,S24_2000,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+1612,10372,37,100.0,8,3910.53,1/26/2005 0:00,Shipped,1,1,2005,Ships,122,S24_2011,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+1637,10367,28,30.59,12,856.52,1/12/2005 0:00,Resolved,1,1,2005,Vintage Cars,44,S24_2022,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Small
+1664,10371,20,100.0,5,3449.4,1/23/2005 0:00,Shipped,1,1,2005,Trucks and Buses,127,S24_2300,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1689,10363,43,61.23,14,2632.89,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,69,S24_2360,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+1712,10368,40,100.0,2,4107.2,1/19/2005 0:00,Shipped,1,1,2005,Classic Cars,90,S24_2766,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1739,10371,45,100.0,8,5545.8,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,35,S24_2840,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1765,10373,38,70.44,7,2676.72,1/31/2005 0:00,Shipped,1,1,2005,Planes,68,S24_2841,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+1788,10368,31,100.0,5,4223.13,1/19/2005 0:00,Shipped,1,1,2005,Classic Cars,117,S24_2887,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1814,10367,36,100.0,2,5018.4,1/12/2005 0:00,Resolved,1,1,2005,Classic Cars,37,S24_2972,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,,Young,Julie,Medium
+1841,10373,33,57.32,12,1891.56,1/31/2005 0:00,Shipped,1,1,2005,Vintage Cars,88,S24_3151,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+1864,10368,46,79.62,1,3662.52,1/19/2005 0:00,Shipped,1,1,2005,Classic Cars,85,S24_3191,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+1890,10363,21,100.0,15,2447.76,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,61,S24_3371,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+1916,10373,46,66.0,11,3036.0,1/31/2005 0:00,Shipped,1,1,2005,Vintage Cars,65,S24_3420,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+1940,10368,20,99.58,4,1991.6,1/19/2005 0:00,Shipped,1,1,2005,Classic Cars,107,S24_3432,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+1965,10373,23,100.0,10,2394.3,1/31/2005 0:00,Shipped,1,1,2005,Vintage Cars,83,S24_3816,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+1992,10363,31,94.58,1,2931.98,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,140,S24_3856,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Small
+2019,10373,39,73.0,13,2847.0,1/31/2005 0:00,Shipped,1,1,2005,Planes,68,S24_3949,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+2042,10368,46,37.34,3,1717.64,1/19/2005 0:00,Shipped,1,1,2005,Vintage Cars,41,S24_3969,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2068,10371,28,50.32,9,1408.96,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,118,S24_4048,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2095,10369,40,86.92,3,3476.8,1/20/2005 0:00,Shipped,1,1,2005,Vintage Cars,97,S24_4258,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,,Nelson,Allen,Medium
+2143,10363,43,100.0,9,5154.41,1/6/2005 0:00,Shipped,1,1,2005,Classic Cars,80,S24_4620,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+2169,10371,26,100.0,1,4044.04,1/23/2005 0:00,Shipped,1,1,2005,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2192,10363,50,100.0,2,6576.5,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,99,S32_1374,Suominen Souveniers,+358 9 8045 555,"Software Engineering Center, SEC Oy",,Espoo,,FIN-02271,Finland,EMEA,Suominen,Kalle,Medium
+2218,10364,48,48.28,1,2317.44,1/6/2005 0:00,Shipped,1,1,2005,Motorcycles,40,S32_2206,Marseille Mini Autos,91.24.4555,"12, rue des Bouchers",,Marseille,,13008,France,EMEA,Lebihan,Laurence,Small
+2245,10371,20,66.47,2,1329.4,1/23/2005 0:00,Shipped,1,1,2005,Trucks and Buses,54,S32_2509,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2272,10371,30,99.55,11,2986.5,1/23/2005 0:00,Shipped,1,1,2005,Trains,62,S32_3207,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2299,10370,25,100.0,3,3160.25,1/20/2005 0:00,Shipped,1,1,2005,Trucks and Buses,64,S32_3522,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+2348,10365,22,100.0,3,3425.18,1/7/2005 0:00,Shipped,1,1,2005,Motorcycles,102,S32_4485,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,,Tam,Wing C,Medium
+2401,10371,48,56.55,10,2714.4,1/23/2005 0:00,Shipped,1,1,2005,Trucks and Buses,115,S50_1392,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Small
+2428,10372,24,58.58,9,1405.92,1/26/2005 0:00,Shipped,1,1,2005,Trains,58,S50_1514,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+2453,10365,44,100.0,2,4984.32,1/7/2005 0:00,Shipped,1,1,2005,Motorcycles,81,S50_4713,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,,Tam,Wing C,Medium
+2479,10373,44,100.0,14,4627.92,1/31/2005 0:00,Shipped,1,1,2005,Ships,66,S700_1138,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+2530,10372,44,100.0,2,4496.8,1/26/2005 0:00,Shipped,1,1,2005,Ships,86,S700_1938,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+2556,10373,32,84.41,15,2701.12,1/31/2005 0:00,Shipped,1,1,2005,Ships,90,S700_2047,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+2610,10373,41,70.33,16,2883.53,1/31/2005 0:00,Shipped,1,1,2005,Ships,72,S700_2610,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+2637,10371,34,100.0,3,4301.34,1/23/2005 0:00,Shipped,1,1,2005,Classic Cars,101,S700_2824,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,,Nelson,Valarie,Medium
+2713,10373,34,96.34,2,3275.56,1/31/2005 0:00,Shipped,1,1,2005,Ships,100,S700_3505,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+2739,10373,37,100.0,8,4025.6,1/31/2005 0:00,Shipped,1,1,2005,Ships,99,S700_3962,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
+2765,10373,45,55.62,17,2502.9,1/31/2005 0:00,Shipped,1,1,2005,Planes,74,S700_4002,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+2792,10373,25,64.97,9,1624.25,1/31/2005 0:00,Shipped,1,1,2005,Planes,49,S72_1253,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Small
+2819,10373,29,100.0,1,3978.51,1/31/2005 0:00,Shipped,1,1,2005,Ships,54,S72_3212,"Oulu Toy Supplies, Inc.",981-443655,Torikatu 38,,Oulu,,90110,Finland,EMEA,Koskitalo,Pirkko,Medium
